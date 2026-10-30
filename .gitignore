@@ -1,0 +1,15 @@
+# Data files are not shared (brief: "Do NOT upload any data"); see README for download steps
+data/
+*.xlsx
+*.zip
+*.csv
+
+# Jupyter and Python
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+venv/
+
+# OS and editor
+.DS_Store
+.~lock.*
