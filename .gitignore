@@ -6,6 +6,8 @@ data/
 
 # Jupyter and Python
 .ipynb_checkpoints/
+.virtual_documents/
+.Rhistory
 __pycache__/
 .venv/
 venv/
