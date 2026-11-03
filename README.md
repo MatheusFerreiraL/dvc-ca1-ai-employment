@@ -19,10 +19,11 @@ The data is **not** included in this repository. To run the notebook:
 
 ## How to run
 
-Requirements: Python 3, Jupyter, pandas, openpyxl, matplotlib, seaborn, plotly.
+Requirements: Python 3, Jupyter, pandas, openpyxl, matplotlib, seaborn, plotly
+and kaleido (used by plotly to save the static copy of the map).
 
 ```bash
-pip install pandas openpyxl matplotlib seaborn plotly jupyter
+pip install pandas openpyxl matplotlib seaborn plotly kaleido jupyter
 jupyter notebook
 ```
 
